@@ -142,7 +142,7 @@ class BasicValetDriver extends ValetDriver
     }
 
     /**
-     * Format the incoming site path as a "public/index.php" file path.
+     * Format the incoming site path as a "public/index.html" file path.
      *
      * @param  string  $sitePath
      * @return string
